@@ -1,0 +1,3 @@
+libcore
+=======
+Thanks to PSX
